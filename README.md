@@ -15,12 +15,12 @@
 
  
 
-![](Ressources/VBA_Challenge_2017_old.png)
+![](Ressources/VBA_Challenge_2017_old.PNG)<br>
 ![](Ressources/VBA_Challenge_2017.png)
 
 
 ### Analysis of 2018 stocks plus benchmark.<br>
-![](Ressources/VBA_Challenge_2018_old.png)
+![](Ressources/VBA_Challenge_2018_old.png)<br>
 ![](Ressources/VBA_Challenge_2018.png)
 <br>
 
