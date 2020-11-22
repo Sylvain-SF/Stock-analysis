@@ -36,4 +36,3 @@ Refactoring code made it run faster, but coming at the cost of complexity.<br>
 The cons is that refactoring imply a more complicated code and can be more difficult to handle but he does run ~30% faster. So the script can handle more data.
 
 
-- 
