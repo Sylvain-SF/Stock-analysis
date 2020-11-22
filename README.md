@@ -8,7 +8,7 @@
 
 
 
-<br>
+
 
 ## Results
 ###  Analysis of 2017 stocks plus benchmark.<br>
@@ -35,5 +35,4 @@ We benchmarched our code for both year before an after refactoring and we can an
 
 Refactoring code made it run faster, but coming at the cost of complexity.<br>
 The cons is that refactoring imply a more complicated code and can be more difficult to handle but he does run ~80% faster. So the script can handle more data.<br>
-We also figure out that when we activate a different worksheet in a place we don't need it's made the code lose speed consequently, at contrario of activate it in key spot win speed.
 
