@@ -22,8 +22,9 @@
 ### Analysis of 2018 stocks plus benchmark.<br>
 ![](Ressources/VBA_Challenge_2018_old.png)<br>
 ![](Ressources/VBA_Challenge_2018.png)
-<br>
 
+ 
+        
 ## Stocks analysis and benchmark analysis.<br>
 
 In regards of the stock analysis, we can tell 2017 was a better year to invest in comparaison of 2018.<br>
@@ -33,6 +34,6 @@ We benchmarched our code for both year before an after refactoring and we can an
 
 ## Summary
 
-Refactoring code made it run faster, but coming at the cost of complexity.<br>
-The cons is that refactoring imply a more complicated code and can be more difficult to handle but he does run ~80% faster. So the script can handle more data.<br>
+In general, refactoring code made it more efficient and maintainable, but usually coming at the cost of more complexity.<br>
+In this example, the cons is that refactoring imply a more complicated code and can be more difficult to handle but he does run ~80% faster. So the script can handle more data.<br>
 
